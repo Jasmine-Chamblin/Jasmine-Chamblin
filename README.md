@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jasmine-Chamblin
-- 👀 I’m interested in optimal user experiences
+- 👀 I’m interested in optimizing user experiences
 - 🌱 I’m currently learning front and back end web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me jasmineismone.jc@gmail.com
